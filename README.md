@@ -9,4 +9,5 @@ My build of st
 * scrolling
 * w3m
 * copyurl
+* anysize
 
